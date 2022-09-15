@@ -14,6 +14,7 @@
   }
   
   .gallery img {
+    display: grid;
     width: 100%;
     border: 1px solid black;
   }
